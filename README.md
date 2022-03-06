@@ -7,7 +7,7 @@ Under Progress
 
 This project is a starting point for a Flutter application Desktop
 
-this is a easy small erp softwaer for Doctors passiont and medicine tracking
+this is a easy small erp softwaer for Doctor's passiont and medicine tracking
 
 
 
