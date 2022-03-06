@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application Desktop
 
-A few resources to get you started if this is your first Flutter project:
+this is a easy small erp softwaer for Doctors passiont and medicine tracking
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Home](https://user-images.githubusercontent.com/54738565/156934323-0348e0da-56c6-424e-b920-cc706a4f588d.png)
+![Drower](https://user-images.githubusercontent.com/54738565/156934319-e285e5ae-b297-4504-b1f0-0943b7b38a2c.png)
+![Add](https://user-images.githubusercontent.com/54738565/156934320-2a39c1b6-77c7-42e2-846e-c4a24667e474.png)
+![Search](https://user-images.githubusercontent.com/54738565/156934322-0fa91f09-278f-41bc-a3cc-80794c09d9f8.png)
+
